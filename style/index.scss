@@ -1,0 +1,278 @@
+// sass中的注释，不会出现在编译后的css中
+/* css中的注释，会出现在编译后的css中 */
+
+/* 顶部广告 */
+#banner_top{
+  height: 80px;
+ 
+}
+.box{
+  height: 80px;
+  // width: 1920px;
+  margin: 0 auto;
+  background: url(../image/banner_top.png) no-repeat 50% 0 ;
+}
+
+/* 顶部导航 */
+#top_nav{
+  height: 40px;
+  background: #F3F5F7;
+}
+.top_nav_con{
+  width: 1200px;
+  margin: 0 auto;
+  .top_nav1{
+    float: left;
+    li{
+      float: left;
+      position: relative;
+      padding: 0 16px;
+      span{
+        display: block;
+        float: left;
+        margin: 12px 4px 0 0;
+        height: 14px;
+        width: 14px;
+      }
+      a{
+        font-size: 12px;
+        color: #71797F;
+        line-height: 40px;
+      }
+      a:hover{
+        color: #FF734C;
+      }
+    }
+    li:nth-child(1){
+      padding-left: 0;
+      span{
+        background: url(../image/tubiao.png) no-repeat 0 -21px;
+        // background-position: ;
+      }
+    }
+    li:nth-child(2){
+      span{
+        background: url(../image/tubiao.png) no-repeat -24px -21px;
+      }
+      .box1{
+        height: 195px;
+        width: 158px;
+        position: absolute;
+        left: -1px;
+        border: #E9ECF0 solid 1px;
+        background: #fff;
+        border-top: none;
+        z-index: 2;
+        display: none;
+        img{
+          display: block;
+          padding: 20px 17px 0;
+          width: 120px;
+        }
+        p{
+          text-align: center;
+          font-size: 12px;
+          line-height: 18px;
+          color: #232628;
+        }
+      }
+    }  
+    li:nth-child(3){
+      span{
+        background: url(../image/tubiao.png) no-repeat -48px -21px;
+      }
+      .box2{
+        height: 176px;
+        width: 158px;
+        position: absolute;
+        left: -1px;
+        border: #E9ECF0 solid 1px;
+        border-top: none;
+        display: none;
+        z-index: 2;
+        background: #fff;
+        img{
+          display: block;
+          padding: 20px 14px 0;
+          width: 130px;
+        }
+        p{
+          text-align: center;
+          font-size: 12px;
+          line-height: 20px;
+          color: #232628;
+        }
+      }
+    }
+    li:nth-child(2):hover{
+      a{
+        color: #FF734C;
+      }
+      background: #fff;
+      .box1{
+        display: block;
+      }
+    }
+    li:nth-child(3):hover{
+      a{
+        color: #FF734C;
+      }
+      background: #fff;
+      .box2{
+        display: block;
+      }
+    }
+  }
+  .top_nav2{
+    float: right;
+    li{
+      float: left;
+      padding: 0 16px;
+      a{
+        font-size: 12px;
+        color: #71797F;
+        line-height: 40px;
+        .arrow{
+          display: block;
+          float: right;
+          height: 8px;
+          width: 8px;
+          margin: 16px 0 0 5px;
+          background: url(../image/jtou_bot.png) no-repeat 0 0;
+        }
+      }
+      a:hover{
+        color: #FF734C;
+      }
+    }
+    .menu{
+      position: relative;
+      .drop-box{
+        position: absolute;
+        width: 93px;
+        height: 107px;
+        padding-top: 7px;
+        border: 1px solid #E9ECF0;
+        border-top: none;
+        left: -1px;
+        z-index: 2;
+        background: #fff;
+        display: none;
+        a{
+          display: block;
+          width: 93px;
+          font-size: 12px;
+          line-height: 20px;
+          color: #71797F;
+          text-align: center;
+        }
+        a:hover{
+          color: #FF734C;
+        }
+      }
+    }
+    .menu:hover{
+      background: #fff;
+      .fuwu{
+        color: #FF734C;
+      }
+      .drop-box{
+        display: block;
+      }
+    }
+    li:nth-child(1){
+      a:nth-child(1){
+        margin-right: 12px;
+      }
+    }
+    li:nth-child(5){
+      font-size: 12px;
+      color: #71797F;
+      line-height: 40px;
+      padding-right: 0;
+    }
+  }
+}
+
+/* 搜索栏 */
+#hader{
+  height: 120px;
+  background: #F7F9FA;
+}
+.hader_con{
+  height: 97px;
+  width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  background: lightblue;
+  .logo{
+    width: 238px;
+    padding-top: 30px;
+    float: left;
+    a{
+      display: block;
+      float: left;
+      height: 60px;
+      width: 238px;
+      background: url(../image/tubiao.png) no-repeat 0 -248px;
+    }
+  }
+  .sear_box{
+    padding-top: 25px;
+    width: 440px;
+    height: 72px;
+    margin: 0 auto;
+    // background: lightcoral;
+    .sear_box1{
+      width: 100%;
+      height: 48px;
+      border: 2px solid #FF734C;
+      border-radius: 24px;
+      box-sizing: border-box;
+      .icon{
+        float: left;
+        height: 44px;
+        width: 54px;
+        text-align: center;
+        span{
+          display: inline-block;
+          width: 16px;
+          height: 16px;
+          margin-top: 16px;
+          background: url(../image/tubiao.png) no-repeat 0 -48px;
+        }
+      }
+      input{
+        float: left;
+        width: 264px;
+        height: 44px;
+        border: none;
+        outline:none;
+      }
+      button{
+        width: 118px;
+        height: 44px;
+        border: none;
+        border-radius: 24px;
+        background: #FF471D;
+        font-size: 18px;
+        color: #fff;
+        font-weight: bold;
+        outline:none;
+      }
+    }
+    .sear_box2{
+      width: 396px;
+      height: 16px;
+      margin: 8px 0 0 44px;
+      a{
+        float: left;
+        font-size: 12px;
+        line-height: 12px;
+        height: 12px;
+        color: #71797F;
+        padding: 0 16px;
+      }
+    }
+  }
+}
