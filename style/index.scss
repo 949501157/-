@@ -204,7 +204,7 @@
   width: 1200px;
   margin: 0 auto;
   position: relative;
-  background: lightblue;
+  // background: lightblue;
   .logo{
     width: 238px;
     padding-top: 30px;
@@ -221,7 +221,8 @@
     padding-top: 25px;
     width: 440px;
     height: 72px;
-    margin: 0 auto;
+    float: left;
+    margin-left: 142px;
     // background: lightcoral;
     .sear_box1{
       width: 100%;
@@ -272,6 +273,291 @@
         height: 12px;
         color: #71797F;
         padding: 0 16px;
+      }
+    }
+  }
+  .service{
+    float: right;
+    width: 350px;
+    height: 36px;
+    padding-top: 25px;
+    .phone{
+      height: 36px;
+      float: left;
+      margin-left: 86px;
+      span{
+        display: block;
+        float: left;
+        height: 24px;
+        width: 24px;
+        margin: 12px 12px 0 0;
+        background: url(../image/tubiao.png) no-repeat 0 -102px;
+        
+      }
+      h3{
+        float: left;
+        margin-top: 15px;
+        font-size: 14px;
+        color: #71797F;
+        line-height: 14px;
+        font-weight: normal;
+      }
+    }
+    .online_ser{
+      height: 36px;
+      margin-left: 40px;
+      float: left;
+      span{
+        display: block;
+        float: left;
+        height: 24px;
+        width: 24px;
+        margin: 12px 12px 0 0;
+        background: url(../image/tubiao.png) no-repeat -34px -102px;
+      }
+      h3{
+        float: left;
+        margin-top: 15px;
+        font-size: 14px;
+        color: #71797F;
+        line-height: 14px;
+        font-weight: normal;
+      }
+    }
+  }
+}
+
+// 导航
+#navi{
+  height: 52px;
+  background: #F7F9FA;
+}
+.navi_con{
+  height: 52px;
+  width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  // background: lightblue;
+  .categorys{
+    background: #FF5329;
+    width: 216px;
+    height: 52px;
+    padding-left: 24px;
+    float: left;
+    border-top-right-radius:14px;
+    border-top-left-radius:14px;
+    span{
+      display: block;
+      float: left;
+      height: 24px;
+      width: 24px;
+      background: url(../image/tubiao.png) no-repeat -68px -102px;
+      margin: 14px 8px 0 0;
+    }
+    a{
+      font-size: 18px;
+      line-height: 52px;
+      color: #fff;
+      font-weight: bold;
+    }
+  }
+
+  .drow_cate{
+    width: 240px;
+    height: 470px;
+    padding-top: 10px;
+    background: url(../image/black-bg.png) repeat 0 0;
+    opacity: 0.85;
+    position: absolute;
+    top: 52px;
+    .box1{
+      height: 99px;
+      width: 220px;
+      padding: 9px 0 9px 20px;
+      border-bottom: 1px dashed rgba(255, 255, 255, 0.2);
+      h4 a{
+        font-size: 16px;
+        color: #fff;
+        line-height: 20px;
+        padding: 2px 0 0 4px;
+      }
+      ul{
+        margin-top: 5px;
+        li{
+          float: left;
+          margin-right: 4px;
+          a{
+            padding: 0 4px;
+            font-size: 14px;
+            line-height: 24px;
+            color: #fff;
+          }
+        }
+      }
+      a:hover{
+        color: #FF5329;
+      }  
+    }
+    .box2{
+      width: 220px;
+      height: 75px;
+      padding: 9px 0 9px 20px;
+      border-bottom: 1px dashed rgba(255, 255, 255, 0.2);
+      h4 a{
+        font-size: 16px;
+        color: #fff;
+        line-height: 20px;
+        padding: 2px 0 0 4px;
+      }
+      ul{
+        margin-top: 5px;
+        height: 48px;
+        li{
+          float: left;
+          margin-right: 4px;
+          a{
+            padding: 0 4px;
+            font-size: 14px;
+            line-height: 24px;
+            color: #fff;
+          }
+        }
+      }
+      a:hover{
+        color: #FF5329;
+      }  
+    }
+    .box3{
+      width: 220px;
+      height: 51px;
+      padding: 9px 0 9px 20px;
+      border-bottom: 1px dashed rgba(255, 255, 255, 0.2);
+      h4{
+        padding-right: 28px;
+        a{
+          font-size: 16px;
+          color: #fff;
+          line-height: 20px;
+          padding: 2px 0 0 4px;
+        }
+        span{
+          display: block;
+          float: right;
+          height: 12px;
+          width: 12px;
+          margin-top: 4px;
+          background: url(../image/tubiao.png) no-repeat -44px 0;
+        }
+      }
+      ul{
+        margin-top: 5px;
+        height: 48px;
+        li{
+          float: left;
+          margin-right: 4px;
+          a{
+            padding: 0 4px;
+            font-size: 14px;
+            line-height: 24px;
+            color: #fff;
+          }
+        }
+      }
+      a:hover{
+        color: #FF5329;
+      }  
+    }
+    .box4{
+      width: 220px;
+      height: 75px;
+      padding: 9px 0 9px 20px;
+      border-bottom: 1px dashed rgba(255, 255, 255, 0.2);
+      h4{
+        padding-right: 28px;
+        a{
+          font-size: 16px;
+          color: #fff;
+          line-height: 20px;
+          padding: 2px 0 0 4px;
+        }
+        span{
+          display: block;
+          float: right;
+          height: 12px;
+          width: 12px;
+          margin-top: 4px;
+          background: url(../image/tubiao.png) no-repeat -44px 0;
+        }
+      }
+      ul{
+        margin-top: 5px;
+        height: 48px;
+        li{
+          float: left;
+          margin-right: 4px;
+          a{
+            padding: 0 4px;
+            font-size: 14px;
+            line-height: 24px;
+            color: #fff;
+          }
+        }
+      }
+      a:hover{
+        color: #FF5329;
+      }  
+    }
+    .box5{
+      width: 220px;
+      height: 75px;
+      padding: 9px 0 9px 20px;
+      border-bottom: 1px dashed rgba(255, 255, 255, 0.2);
+      h4{
+        padding-right: 28px;
+        color: #fff;
+        a{
+          font-size: 16px;
+          color: #fff;
+          line-height: 20px;
+          padding: 2px 0 0 4px;
+        }
+        span{
+          display: block;
+          float: right;
+          height: 12px;
+          width: 12px;
+          margin-top: 4px;
+          background: url(../image/tubiao.png) no-repeat -44px 0;
+        }
+
+      }
+      a:hover{
+        color: #FF5329;
+      }  
+    }
+
+  }
+  
+  .liebiao{
+    height: 52px;
+    float: left;
+    padding-left: 12px;;
+    li{
+      float: left;
+      margin: 0 14px;
+      a{
+        font-size: 18px;
+        font-weight: bold;
+        line-height: 52px;
+        color: #232628;
+      }
+      a:hover{
+        color: #FF471D;
+      }
+    }
+    li:nth-child(9){
+      a{
+        color: #FF471D;
       }
     }
   }
