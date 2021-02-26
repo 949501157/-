@@ -25,5 +25,177 @@
 ],
 [
 {"name":"北京"},{"name":"上海"},{"name":"广州"},{"name":"深圳"},{"name":"天津"},{"name":"成都"},{"name":"重庆"},{"name":"西安"},{"name":"武汉"},{"name":"杭州"},{"name":"南京"},{"name":"合肥"},{"name":"郑州"},{"name":"长沙"},{"name":"南昌"},{"name":"温州"},{"name":"沈阳"},{"name":"长春"},{"name":"大连"},{"name":"青岛"},{"name":"济南"},{"name":"福州"},{"name":"厦门"},{"name":"昆明"},{"name":"贵阳"},{"name":"南宁"},{"name":"常州"},{"name":"海口"},{"name":"太原"},{"name":"兰州"},{"name":"唐山"},{"name":"东莞"},{"name":"佛山"},{"name":"宁波"},{"name":"无锡"},{"name":"哈尔滨"},{"name":"石家庄"},{"name":"呼和浩特"},{"name":"乌鲁木齐"},{"name":"更多>>"}
-]
+],
+[{"imgurl":"//img02.hua.com/m/category/Classification/m_category_gift_brand_SWAROVSKI.png","title":"施华洛世奇"},{"imgurl":"//img02.hua.com/m/category/Classification/m_category_gift_brand_GlamEver.png","title":"Glam Ever潮牌饰品"},{"imgurl":"//img02.hua.com/m/category/Classification/m_category_gift_brand_Dior.png","title":"迪奥Dior"},{"imgurl":"//img02.hua.com/m/category/Classification/m_category_gift_brand_MW.png","title":"猫王收音机"},{"imgurl":"//img02.hua.com/m/category/Classification/m_category_gift_brand_HelloKitty.png","title":"Hello Kitty"}],
+[{"imgurl":"//img02.hua.com/m/category/Classification/m_category_gift_sort_Musicbox.png","title":"音乐盒"},{"imgurl":"//img02.hua.com/m/category/Classification/m_category_gift_sort_Goldfoilflower.png","title":"金箔花"},{"imgurl":"//img02.hua.com/m/category/Classification/m_category_gift_sort_3DCrystal.png","title":"3D水晶内雕"},{"imgurl":"//img02.hua.com/m/category/Classification/m_category_gift_sort_JewelryBeauty.png","title":"首饰/美妆"},{"imgurl":"//img02.hua.com/m/category/Classification/m_category_gift_sort_Chocolates.png","title":"巧克力"},{"imgurl":"//img02.hua.com/m/category/Classification/m_category_gift_sort_dolls.png","title":"公仔/睡枕"},{"imgurl":"//img02.hua.com/m/category/Classification/m_category_gift_sort_OrnamentsOthers.png","title":"摆件/其他"},{"imgurl":"//img02.hua.com/m/category/Classification/m_category_Plants_Green.png","title":"绿色植物"},{"imgurl":"//img02.hua.com/m/category/Classification/m_category_Plants_Potted.png","title":"盆栽花卉"},{"imgurl":"//img02.hua.com/m/category/Classification/m_category_Plants_Succulent.png","title":"多肉植物盆栽"},{"imgurl":"//img02.hua.com/m/category/Classification/m_category_gift_sort_Yinxiang.png","title":"蓝牙音箱"}],
+[{"imgurl":"https://img01.hua.com/uploadpic/newpic/9012471.jpg_220x240.jpg","title":"爱情 · 你是唯一","price":"159","sell":"5.6万"},{"imgurl":"https://img01.hua.com/uploadpic/newpic/9010966.jpg_220x240.jpg","title":"爱情 · 一往情深","price":"282","sell":"13.2万"},{"imgurl":"https://img01.hua.com/uploadpic/newpic/9012473.jpg_220x240.jpg","title":"爱情 · 韩式系列/你笑起来...","price":"343","sell":"2655"},{"imgurl":"https://img01.hua.com/uploadpic/newpic/9012177.jpg_220x240.jpg","title":"爱情 · 不变的承诺","price":"769","sell":"7.0万"},{"imgurl":"https://img01.hua.com/uploadpic/newpic/9012450.jpg_220x240.jpg","title":"爱情 · 韩式系列/初心不负","price":"270","sell":"7.6万"},{"imgurl":"https://img01.hua.com/uploadpic/newpic/9012467.jpg_220x240.jpg","title":"爱情 · Best for You","price":"168","sell":"1.6万"},{"imgurl":"https://img01.hua.com/uploadpic/newpic/9012491.jpg_220x240.jpg","title":"爱情 · 韩式系列/依然爱你","price":"481","sell":"56"},{"imgurl":"https://img01.hua.com/uploadpic/newpic/9012474.jpg_220x240.jpg","title":"爱情 · 韩式系列/慢慢喜欢...","price":"275","sell":"3145"}],
+[{"imgurl":"https://img01.hua.com/uploadpic/newpic/9012452.jpg_220x240.jpg","title":"送长辈 · 韩式系列/一路向...","price":"340","sell":"7.1万"},{"imgurl":"https://img01.hua.com/uploadpic/newpic/9012092.jpg_220x240.jpg","title":"送长辈 · 母爱","price":"186","sell":"2.1万"},{"imgurl":"https://img01.hua.com/uploadpic/newpic/9012332.jpg_220x240.jpg","title":"送长辈 · 留住好时光","price":"282","sell":"1.3万"},{"imgurl":"https://img01.hua.com/uploadpic/newpic/9010741.jpg_220x240.jpg","title":"送长辈 · 健康长久","price":"498","sell":"6667"},{"imgurl":"https://img01.hua.com/uploadpic/newpic/9012201.jpg_220x240.jpg","title":"送长辈 · 馨情无限","price":"273","sell":"8065"},{"imgurl":"https://img01.hua.com/uploadpic/newpic/9012095.jpg_220x240.jpg","title":"送长辈 · 幸福绽放","price":"190","sell":"1.7万"},{"imgurl":"https://img01.hua.com/uploadpic/newpic/9012440.jpg_220x240.jpg","title":"送长辈 · 星河璀璨","price":"331","sell":"5280"},{"imgurl":"https://img01.hua.com/uploadpic/newpic/9012460.jpg_220x240.jpg","title":"送长辈 · 韩式系列/牵挂你","price":"309","sell":"1551"}],
+[
+    {
+      "imgurl": "https://img01.hua.com/uploadpic/newpic/1073256.jpg_220x240.jpg",
+      "title": "永生花 · 我如此爱你-施华...",
+      "price": 1190,
+      "sell": "已售 202 件",
+      "Column4": ""
+    },
+    {
+      "imgurl": "https://img01.hua.com/uploadpic/newpic/1073278.jpg_220x240.jpg",
+      "title": "永生花 · 永生花蓝牙音箱...",
+      "price": 398,
+      "sell": "已售 85 件",
+      "Column4": ""
+    },
+    {
+      "imgurl": "https://img01.hua.com/uploadpic/newpic/1073269.jpg_220x240.jpg",
+      "title": "永生花 · 花好月圆永生花...",
+      "price": 298,
+      "sell": "已售 734 件",
+      "Column4": ""
+    },
+    {
+      "imgurl": "https://img01.hua.com/uploadpic/newpic/1073264.jpg_220x240.jpg",
+      "title": "永生花 · 一鹿(路)有你永...",
+      "price": 298,
+      "sell": "已售 1440 件",
+      "Column4": ""
+    },
+    {
+      "imgurl": "https://img01.hua.com/uploadpic/newpic/1073287.jpg_220x240.jpg",
+      "title": "永生花 · 心形永生花巧克...",
+      "price": 298,
+      "sell": "已售 207 件",
+      "Column4": ""
+    },
+    {
+      "imgurl": "https://img01.hua.com/uploadpic/newpic/1073185.jpg_220x240.jpg",
+      "title": "永生花 · 我如此爱你-口红...",
+      "price": 639,
+      "sell": "已售 7372 件",
+      "Column4": ""
+    },
+    {
+      "imgurl": "https://img01.hua.com/uploadpic/newpic/1073253.jpg_220x240.jpg",
+      "title": "永生花 · 花漾年华-迪奥香...",
+      "price": 939,
+      "sell": "已售 260 件",
+      "Column4": ""
+    },
+    {
+      "imgurl": "https://img01.hua.com/uploadpic/newpic/1073033.jpg_220x240.jpg",
+      "title": "永生花 · 一生一世",
+      "price": 198,
+      "sell": "已售 1.3万 件",
+      "Column4": ""
+    }
+  ],
+  [
+    {
+      "imgurl": "//img02.hua.com/m/category/Classification/m_category_cake_cakeboss.png",
+      "title": "CAKEBOSS蛋糕",
+      "Column2": ""
+    },
+    {
+      "imgurl": "//img02.hua.com/m/category/Classification/m_category_cake_mcake.png",
+      "title": "Mcake蛋糕",
+      "Column2": ""
+    },
+    {
+      "imgurl": "//img02.hua.com/m/category/Classification/m_category_cake_21cake.png",
+      "title": "廿一客蛋糕",
+      "Column2": ""
+    },
+    {
+      "imgurl": "//img02.hua.com/m/category/Classification/m_category_cake_all.png",
+      "title": "全国蛋糕",
+      "Column2": ""
+    },
+    {
+      "imgurl": "//img02.hua.com/m/category/Classification/m_category_cake_waffleboy.png",
+      "title": "窝夫小子蛋糕",
+      "Column2": ""
+    },
+    {
+      "imgurl": "//img02.hua.com/m/category/Classification/m_category_cake_vcaketop.png",
+      "title": "Vcake蛋糕",
+      "Column2": ""
+    },
+    {
+      "imgurl": "//img02.hua.com/m/category/Classification/m_category_cake_pantry.png",
+      "title": "派悦坊蛋糕",
+      "Column2": ""
+    },
+    {
+      "imgurl": "//img02.hua.com/m/category/Classification/m_category_cake_xfxb.png",
+      "title": "幸福西饼蛋糕",
+      "Column2": ""
+    },
+    {
+      "imgurl": "//img02.hua.com/m/category/Classification/m_category_cake_boncake.png",
+      "title": "BONCAKE蛋糕",
+      "Column2": ""
+    },
+    {
+      "imgurl": "//img02.hua.com/m/category/m_category_cake_balibeitian.png",
+      "title": "巴黎贝甜蛋糕",
+      "Column2": ""
+    },
+    {
+      "imgurl": "//img02.hua.com/m/category/Classification/m_category_cake_micamika.png",
+      "title": "米卡米卡蛋糕",
+      "Column2": ""
+    },
+    {
+      "imgurl": "//img02.hua.com/m/category/m_category_cake_blackpool.png",
+      "title": "黑池蛋糕",
+      "Column2": ""
+    },
+    {
+      "imgurl": "//img02.hua.com/m/category/Classification/m_category_cake_ganso.png",
+      "title": "元祖蛋糕",
+      "Column2": ""
+    },
+    {
+      "imgurl": "//img02.hua.com/m/category/Classification/m_category_cake_lecake.png",
+      "title": "诺心蛋糕",
+      "Column2": ""
+    },
+    {
+      "imgurl": "//img02.hua.com/m/category/Classification/m_category_cake_cheesecake.png",
+      "title": "心之和蛋糕",
+      "Column2": ""
+    }
+  ],
+  [
+    {
+      "imgurl": "https://img01.hua.com/uploadpic/newpic/5221035.jpg_220x240.jpg",
+      "title": "21CAKE蛋糕 · 深爱（1磅...",
+      "price": 276,
+      "sell": "已售 595 件"
+    },
+    {
+      "imgurl": "https://img01.hua.com/uploadpic/newpic/5501040.jpg_220x240.jpg",
+      "title": "窝夫小子蛋糕 · 百香蛋糕...",
+      "price": 179,
+      "sell": "已售 98 件"
+    },
+    {
+      "imgurl": "https://img01.hua.com/uploadpic/newpic/5501042.jpg_220x240.jpg",
+      "title": "窝夫小子蛋糕 · 草莓烤芝...",
+      "price": 199,
+      "sell": "已售 72 件"
+    },
+    {
+      "imgurl": "https://img01.hua.com/uploadpic/newpic/5301105.jpg_220x240.jpg",
+      "title": "cakeboss蛋糕 · 告白气球...",
+      "price": 299,
+      "sell": "已售 476 件"
+    },
+    {
+      "imgurl": "https://img01.hua.com/uploadpic/newpic/5502041.jpg_220x240.jpg",
+      "title": "窝夫小子蛋糕 · 草莓雪千...",
+      "price": 239,
+      "sell": "已售 135 件"
+    }
+  ]
+
 ]

@@ -3,13 +3,191 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- 解决图片显示问题 -->
+<meta name="referrer" content="no-referrer"/>
 <title>商品列表</title>
+<link rel="stylesheet" href="./style/reset.css">
 <link rel="stylesheet" href="./style/goodslist.css">
 </head>
 <body>
-  <h1>商品列表</h1>
-  <img src="./image/4.png" alt="">
+
+  <!-- 顶部导航 -->
+	<div id="top_nav">
+      <div class="top_nav_con">
+        <ul class="top_nav1">
+          <li>
+            <a href="#"><span></span>收藏鲜花网(hua.com)</a>
+          </li>
+          <li>
+            <a href="#"><span></span>关注微信</a>
+            <div class="box1">
+              <img src="./image/watch.png" alt="">
+              <p>
+                扫码关注
+                <br>
+                回复"礼物" 更多惊喜！
+              </p>
+            </div>
+          </li>
+          <li>
+            <a href="#"><span></span>礼花网app</a>
+            <div class="box2">
+                <img src="./image/app.png" alt="">
+                <p>新人专享100元APP礼包</p>
+              </div>
+          </li>
+        </ul>
+        <ul class="top_nav2">
+          <li><a href="#">你好，请登录</a><a href="#">注册</a></li>
+          <li><a href="#">订单查询</a></li>
+          <li class="menu">
+            <a class="fuwu" href="">客服服务<span class="arrow"></span></a>
+            <div class="drop-box">
+              <a href="">在线付款</a>
+              <a href="">帮助中心</a>
+              <a href="">售后服务</a>
+              <a href="">配送范围</a>
+              <a href="">留言反馈</a>
+            </div>
+          </li>
+          <li><a href="./shoppingcart.html">购物车(0)</a></li>
+          <li>中国鲜花礼品网-友情鲜花</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 搜索栏 -->
+	<div id="hader">
+      <div class="hader_con">
+        <div class="logo"><a href="#"></a></div>
+        <div class="sear_box">
+          <div class="sear_box1">
+            <input type="text" placeholder="商品搜索">
+            <button>搜索</button>
+          </div>
+          <div class="sear_box2">
+            <a href="#">红玫瑰</a>
+            <a href="#">永生花</a>
+            <a href="#">生日鲜花</a>
+            <a href="#">礼品卡</a>
+          </div>
+        </div>
+        <div class="service">
+          <div class="phone">
+            <span></span>
+            <h3>400-889-8188</h3>
+          </div>
+          <div class="online_ser">
+            <span></span>
+            <h3>在线客服</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <!-- 导航 -->
+  <div id="h_navi">
+    <div class="navi_con">
+      <a href="##">首页</a>
+      <a href="##">鲜花</a>
+      <a href="##">永生花</a>
+      <a href="##">蛋糕</a>
+      <a href="##">礼品</a>
+      <a href="##">巧克力</a>
+      <a href="##">花语大全</a>
+      <a href="##">设计师臻选鲜花</a>
+      <a href="##">元宵节鲜花礼物</a>
+    </div>
+  </div>
+
+  <!-- 图 -->
+  <div id="lunbo">
+    <div class="lunbo_con">
+      <img src="https://img02.hua.com/pc/pimg/flower_bannerFriend_190906.jpg" alt="">
+    </div>
+  </div>
+
+  <!-- 商品导航 -->
+  <div id="filterbar">
+    <div class="filterbar_con">
+      <div class="box_l">
+        <a href="##">综合</a>
+        <a href="##">销售<span></span></a>
+        <a href="##">价格<span></span></a>
+        <a href="##">最新<span></span></a>
+      </div>
+      <div class="box_r">
+        <div class="ye_num">
+          <h6><span>1</span>/5</h6>
+        </div>
+        <div class="qie">
+          <span class="qie_l"><img src="../image/qie_l.png" alt=""></span>
+          <span class="qie_r"><img src="../image/qie_r.png" alt=""></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 商品列表 -->
+  <div id="wrapper">
+    <div class="wrapper_con">
+      <div class="zhong">
+
+        <!-- <div class="goods">
+          <a href="##"><img src="https://img01.hua.com/uploadpic/newpic/9012455.jpg_220x240.jpg" alt=""></a>
+          <p class="price">￥322</p>
+          <h3>鲜花/韩式鲜花/特别的你-戴安娜玫瑰19枝、粉色洋桔梗3枝、尤加利10枝、白色石竹梅5枝</h3>
+          <h4>韩式鲜花系列</h4>
+          <div class="operate">
+            <div class="xin">
+              <span></span>
+              <p>收藏</p>
+            </div>
+            <div class="car">
+                <span></span>
+                <p>购物车</p>
+              </div>
+          </div>
+        </div> -->
+
+      </div>
+    </div>
+  </div>
+
+  <!-- 底部 -->
+  <div id="footer">
+    <div class="footer_con">
+      <div class="ft_nav">
+        <a href="##">首页</a>
+        <a href="##">关于我们</a>
+        <a href="##">媒体报道</a>
+        <a href="##">联系方式</a>
+        <a href="##">企业团购</a>
+        <a href="##">花店入驻</a>
+        <a href="##">友情链接</a>
+        <a href="##">在线补款</a>
+        <a href="##">为什么选择中国鲜花礼品网</a>
+      </div>
+      <div class="ft_site">
+        <div class="ft-auth">
+          <span class="slogan"></span>
+          <span class="xiaofei"></span>
+          <span class="jing"></span>
+          <span class="gongsh">
+            <img src="https://szcert.ebs.org.cn/Images/govIcon.gif" alt="">
+          </span>
+        </div>
+        <p>中国花卉协会会员 中国电子商务协会会员 ICP经营许可证：粤B2-20050744 | 粤ICP备09171662号 粤公网安备44030502000373号 Copyright © 2005-2021</p>
+        <p>花礼网 （中国鲜花礼品网） www.hua.com 深圳市百易信息技术有限公司 中国领先鲜花网品牌,友情鲜花专递服务！</p>
+      </div>
+    </div>
+  </div>
+
+<script src="./script/utils.js"></script>
+<script src="./script/jquery-1.8.3.js"></script>
 
 <script src="./script/goodslist.js"></script>
+
+
 </body>
 </html>
